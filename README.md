@@ -7,7 +7,7 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Skytliang/skytliang/blob/main/dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Skytliang/skytliang/blob/main/dist/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Skytliang/skytliang/blob/main/dist/github-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Skytliang/skytliang/blob/main/dist/github-snake-dark.svg">
   <img alt="github-snake" src="https://github.com/Skytliang/skytliang/blob/main/dist/github-snake.svg">
 </picture>
