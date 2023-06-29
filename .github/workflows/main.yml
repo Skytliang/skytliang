@@ -20,8 +20,8 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: ./assets/github-contribution-grid-snake.gif
-          svg_out_path: ./assets/github-contribution-grid-snake.svg
+#           color_snake: Color of the snake
+#           color_dots:  Coma separated list of dots color.
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
