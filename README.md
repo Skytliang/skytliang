@@ -9,6 +9,8 @@
 
 ![](https://github.com/Skytliang/skytliang/blob/main/dist/github-snake-dark.svg)
 
+![](https://github.com/zwhe99/zwhe99/blob/main/assets/github-contribution-grid-snake.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Skytliang/skytliang/blob/main/dist/github-snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Skytliang/skytliang/blob/main/dist/github-snake-dark.svg">
