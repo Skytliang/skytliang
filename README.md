@@ -6,3 +6,8 @@
 - :blue_book: More on [skytliang.github.io](https://skytliang.github.io/)
 
 ![](https://raw.githubusercontent.com/skytliang/skytliang/main/assets/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="assets/github-contribution-grid-snake.svg" />
+</picture>
