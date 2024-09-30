@@ -6,7 +6,16 @@
 - :blue_book: More on [skytliang.github.io](https://skytliang.github.io/)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Skytliang/skytliang/blob/main/dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Skytliang/skytliang/blob/main/dist/github-snake.svg">
-  <img alt="github-snake" src="https://github.com/Skytliang/skytliang/blob/main/dist/github-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Skytliang/skytliang/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Skytliang/skytliang/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Skytliang/skytliang/output/github-contribution-grid-snake.svg"
+  />
 </picture>
